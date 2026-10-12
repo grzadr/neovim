@@ -1,0 +1,12 @@
+# Swap and backup files
+*.swp
+*.swo
+*~
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Optional local overrides / secrets
+.env
+*.local.lua
